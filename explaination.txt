@@ -21,3 +21,10 @@ put .env inside that
 
 004
 api is runninh
+
+005 mongodb
+--sign in with google
+--security
+*db and network access
+*network access list
+*ip address 0.0.0.0/0 should be active
