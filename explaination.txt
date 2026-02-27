@@ -1,0 +1,23 @@
+001
+create project structure:
+index.js
+models/product.js
+package.json
+.env
+
+002
+deployment steps:
+push backend to github
+vercel->new  project-> import git repo
+deploy as nodejs project
+add enviornmental variables
+seed db= https://your backend vercel app/api/seed 
+https://your backend vercel app/api/products=>  json of produccts
+
+003
+dont commit env to github
+create .gitignore
+put .env inside that
+
+004
+api is runninh
